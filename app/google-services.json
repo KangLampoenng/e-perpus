@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050985490748",
+    "firebase_url": "https://e-perpus-lmpg.firebaseio.com",
+    "project_id": "e-perpus-lmpg",
+    "storage_bucket": "e-perpus-lmpg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050985490748:android:0d9589c695d4f0af811639",
+        "android_client_info": {
+          "package_name": "com.example.e_perpus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050985490748-du168uv14qa494c7dlfi27ctvnkvdd44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_perpus",
+            "certificate_hash": "fa246d7c4a917b9eef63e1dbf5ec51a1fdc0276e"
+          }
+        },
+        {
+          "client_id": "1050985490748-mjhephfuhtpecj6ig6ou86oapf0oneat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk-knhCFjZRz_ga_Lpv7FcRvRJInn0ZXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050985490748-mjhephfuhtpecj6ig6ou86oapf0oneat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
